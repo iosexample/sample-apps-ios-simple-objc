@@ -1,6 +1,8 @@
 Bitrise sample iOS app
 ===========================
 
+[![Build Status](https://www.bitrise.io/app/959b197c0bcc7c36.svg?token=1PwoYJva_TaNleUAlOJoSg&branch=master)](https://www.bitrise.io/app/959b197c0bcc7c36)
+
 This is a simple, Objective-C based iOS app project
 you can use for testing Bitrise's app validation process
 and use it for experimenting with other Bitrise features after
